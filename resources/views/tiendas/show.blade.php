@@ -5,7 +5,7 @@
 @section('content')
 
   <h2>Has introducido la siguiente tienda</h2>
-
+  <a href="route('tiendas.create')">Insertar tienda</a>
   <h3>Id: </h3>
   <h3>Nombre: </h3>
   <h3>Descripcion: </h3>
